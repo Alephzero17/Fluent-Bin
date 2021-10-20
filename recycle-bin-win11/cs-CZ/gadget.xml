@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+	<name>Koš</name>
+	<namespace>7th</namespace>
+	<version>1.0.0.0</version>
+	<author name="Seventh Sense Studio">
+		<info url="http://se7enth.com" text="se7enth.com" />
+		<logo src="logo.png" />
+	</author>
+	<copyright>© 2006</copyright>
+	<description>Přesuňte soubory které chcete smazat do koše.</description>
+	<icons>
+		<icon height="48" width="48" src="icon.png" />
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="RecycleBin.html" />
+			<permissions>full</permissions>
+			<platform minPlatformVersion="1.0"/>
+			<!--<defaultImage src="drag.png"/>-->
+		</host>
+	</hosts>
+</gadget>

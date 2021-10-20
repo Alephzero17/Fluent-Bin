@@ -1,0 +1,31 @@
+<!--
+////////////////////////////////////////////////////////////////////////////////
+//
+//  THIS CODE IS NOT APPROVED FOR USE IN/ON ANY OTHER UI ELEMENT OR PRODUCT COMPONENT.
+//  http://se7enth.com
+//  Copyright (c) 2006 Seventh Sense Studio.  All rights reserved.
+//
+////////////////////////////////////////////////////////////////////////////////
+-->
+<html>
+<head>
+	<title>Recycle Bin Flyout</title>
+	<link href="css/flyout.css" rel="stylesheet" type="text/css" />
+	<script language="javascript" src="js/flyout.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="flyout">
+		<g:background id="flyoutBackground" src="images/FlyoutBack.png" style="position:absolute; z-index:-999" />
+		<div id="flyoutContents">
+			<p id="flyoutTitle">Recycle Bin</p>
+			<div id="binContents"></div>
+			<div id="binSize"></div>
+			<ul id="binOptions">
+				<li id="binEmpty"><a id="binEmptyLink" href="javascript:void(0);">Empty Recycle Bin</a></li>
+				<li><a id="binOpenLink" href="javascript:void(0);">Open Recycle Bin</a></li>
+				<li><a id="binPropertiesLink" href="javascript:void(0);">Properties</a></li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
