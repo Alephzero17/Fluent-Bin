@@ -1,4 +1,4 @@
-# Recycle-Bin-Fluent
+# Recycle Bin Fluent
 
 ## About
 Recycle Bin Fluent is a modified version of Recycle Bin Gadget with a Windows 10/11 icon style look and this was originally made by [Seventh Sense Studio](http://win7gadgets.com/pc-system/recycle_bin.html)
