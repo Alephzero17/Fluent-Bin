@@ -6,6 +6,3 @@ Fluent Bin is a modified version of Recycle Bin Gadget with a Windows 10/11 icon
 
 ## Requirement
 You need to install [Windows Desktop Gadgets](https://winaero.com/desktop-gadgets-and-sidebar-for-windows-10/?utm_source=software&utm_medium=in-app&utm_campaign=winaerotweaker&utm_content=getgadgets) or [8GadgetPack](https://8gadgetpack.net/) to get this work if you using Windows 8 and above. If you still using Windows 7 or Vista, you don't need this of course.
-
-## Known Issues
-Sometimes it's hard when you clicking or dragging those recycle bin not quite sure why, the only way to get this work is click or drag on the feet of recycle bin. In the future, i try improving this as possible.
