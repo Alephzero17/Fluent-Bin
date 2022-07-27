@@ -6,4 +6,4 @@ This was originally made by [Seventh Sense Studio](http://win7gadgets.com/pc-sys
 ![preview1](https://github.com/Alephzero17/Recycle-Bin-Fluent/blob/main/preview/preview1.png)
 
 ### Requirement (Ignone this if you using Vista/7)
-You need to install [Windows Desktop Gadgets](https://winaero.com/desktop-gadgets-and-sidebar-for-windows-10/?utm_source=software&utm_medium=in-app&utm_campaign=winaerotweaker&utm_content=getgadgets) or [8GadgetPack](https://8gadgetpack.net/) to get this work if you using Windows 8 and above.
+You need to install [GadgetsRevived](https://gadgetsrevived.com/) or [8GadgetPack](https://8gadgetpack.net/) to get this work if you using Windows 8 and above.
